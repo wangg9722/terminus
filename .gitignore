@@ -25,3 +25,4 @@ docs/api
 .travis.ssh.key
 *.code-workspace
 /*.iml
+.npmrc
